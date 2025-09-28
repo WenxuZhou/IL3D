@@ -1,2 +1,2 @@
 # IL3D
-The code for the IL3D dataset
+We are organizing the code and will make it publicly available as open source.
