@@ -8,6 +8,8 @@ In this study, we present IL3D, a large-scale dataset meticulously designed for 
 CUDA 11.8, python 3.11
 
 ```bash
+conda create -n IL3D python=3.11
+conda activate IL3D
 pip install -r requirements.txt
 pip install ms-swift -U
 ```
