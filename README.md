@@ -104,13 +104,10 @@ For details, please see the [relevant instructions](./render/README.md).
 ## Reference
 
 ```
-@misc{zhou2025il3dlargescaleindoorlayout,
-      title={IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation}, 
-      author={Wenxu Zhou and Kaixuan Nie and Hang Du and Dong Yin and Wei Huang and Siqiang Guo and Xiaobo Zhang and Pengbo Hu},
-      year={2025},
-      eprint={2510.12095},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.12095}, 
+@article{zhou2025il3d,
+  title={IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation},
+  author={Zhou, Wenxu and Nie, Kaixuan and Du, Hang and Yin, Dong and Huang, Wei and Guo, Siqiang and Zhang, Xiaobo and Hu, Pengbo},
+  journal={arXiv preprint arXiv:2510.12095},
+  year={2025}
 }
 ```
