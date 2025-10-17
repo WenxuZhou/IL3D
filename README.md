@@ -92,7 +92,7 @@ python llm_design.py \
 Sample point clouds and corresponding bounding boxes from the scene, run:
 
 ```bash
-python scripts/sample_scan_point.py \
+python sample_scan_point.py \
     --input_folder <path_to_usda_scene> \
     --output_dir <path_to_sample_res> \
     --num_points <num_of_points>
