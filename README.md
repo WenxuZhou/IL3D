@@ -1,4 +1,4 @@
-# IL3D: A Large-scale indoor layout dataset for LLM-Driven 3D Scene Generation
+# IL3D: A Large-scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation
 
 ## 🏠 [Project Page](https://wenxuzhou.github.io/project/IL3D/) | [ArXiv](https://arxiv.org/abs/2510.12095) | [Code](https://github.com/WenxuZhou/IL3D) | [Data](https://huggingface.co/datasets/WenxuZhou/IL3D)
 
