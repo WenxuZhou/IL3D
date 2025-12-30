@@ -15,7 +15,14 @@ pip install ms-swift -U
 ```
 
 ## 2. Preparations
-Download the [dataset](./data/dataset.md) and [checkpoints](./ckpts/checkpoints.md) to the specified directory，then build the vector database for retrieval，with the following structure:
+Download the [dataset](./data/dataset.md) and [checkpoints](./ckpts/checkpoints.md) to the specified director.
+Then build the vector database for retrieval:
+
+```bash
+python ./retrieve/insert_asset.py
+```
+
+The following structure is as follow:
 
 ```
 |-- ckpts
